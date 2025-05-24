@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": "1f40",
+      "name": "kyriad hotel xiii italie gobelins",
+      "email": "test@gmail.com",
+      "phone": "0147072090"
+    },
+    {
+      "id": "a271",
+      "name": "Ouiam Sifer",
+      "email": "sifer.ouiam@gmail.com",
+      "phone": "+212662199916"
+    },
+    {
+      "id": "1ff2",
+      "name": "sanae sifer",
+      "email": "sifer.sanae@gmail.com",
+      "phone": "0147072090"
+    },
+    {
+      "id": "aa93",
+      "name": "Naziha",
+      "email": "naziha@gmail.com",
+      "phone": "0147072090"
+    },
+    {
+      "id": "077b",
+      "name": "Rachida sahili",
+      "email": "rash@gmail.com",
+      "phone": "069845213"
+    },
+    {
+      "id": "8066",
+      "name": "Mohamed ",
+      "email": "sfir@hotmail.fr",
+      "phone": "0632457895"
+    }
+  ]
+}
